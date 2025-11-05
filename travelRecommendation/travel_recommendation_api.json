@@ -1,0 +1,80 @@
+{
+  "countries": [
+    {
+      "id": 1,
+      "name": "Australia",
+      "cities": [
+        {
+          "name": "Sydney, Australia",
+          "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sydney%20Opera%20House%20-%20Dec%202008.jpg?width=1600",
+          "description": "A vibrant city known for its iconic landmarks like the Sydney Opera House and Sydney Harbour Bridge."
+        },
+        {
+          "name": "Melbourne, Australia",
+          "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Skyline%20of%20Melbourne%20(Feb%202021).jpg?width=1600",
+          "description": "A cultural hub famous for its art, food, and diverse neighborhoods."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Japan",
+      "cities": [
+        {
+          "name": "Tokyo, Japan",
+          "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tokyo%20skyline%20-%20Sony%20A7R%20(11924331285).jpg?width=1600",
+          "description": "A bustling metropolis blending tradition and modernity, famous for its cherry blossoms and rich culture."
+        },
+        {
+          "name": "Kyoto, Japan",
+          "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Toji-temple-kyoto.jpg?width=1600",
+          "description": "Known for its historic temples, gardens, and traditional tea houses."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Brazil",
+      "cities": [
+        {
+          "name": "Rio de Janeiro, Brazil",
+          "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Botafogo%20Beach%20Aerial%20View%20and%20Sugarloaf%20Mountain.jpg?width=1600",
+          "description": "A lively city known for its stunning beaches, vibrant carnival celebrations, and iconic landmarks."
+        },
+        {
+          "name": "São Paulo, Brazil",
+          "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/S%C3%A3o%20Paulo%20-%20Skyline%20from%20Nove%20de%20Julho.jpg?width=1600",
+          "description": "The financial hub with diverse culture, arts, and a vibrant nightlife."
+        }
+      ]
+    }
+  ],
+  "temples": [
+    {
+      "id": 1,
+      "name": "Angkor Wat, Cambodia",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Angkor%20Wat%20at%20sunrise.JPG?width=1600",
+      "description": "A UNESCO World Heritage site and the largest religious monument in the world."
+    },
+    {
+      "id": 2,
+      "name": "Taj Mahal, India",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Taj%20Mahal%20Tomb%20at%20sunrise.JPG?width=1600",
+      "description": "An iconic symbol of love and a masterpiece of Mughal architecture."
+    }
+  ],
+  "beaches": [
+    {
+      "id": 1,
+      "name": "Bora Bora, French Polynesia",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Four%20Seasons%20Resort%20Bora%20Bora.jpg?width=1600",
+      "description": "An island known for its stunning turquoise waters and luxurious overwater bungalows."
+    },
+    {
+      "id": 2,
+      "name": "Copacabana Beach, Brazil",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Copacabana%20beach%20rio.jpg?width=1600",
+      "description": "A famous beach in Rio de Janeiro, Brazil, with a vibrant atmosphere and scenic views."
+    }
+  ]
+}
